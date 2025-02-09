@@ -1,0 +1,6 @@
+services:
+  detector:
+    build: detector/
+    container_name: detector
+    ports:
+      - 8088:8088

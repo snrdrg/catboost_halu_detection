@@ -1,0 +1,8 @@
+catboost
+fastapi
+numpy
+pandas
+pydantic
+scikit_learn
+scipy
+torch
